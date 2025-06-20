@@ -23,6 +23,10 @@ This is a simple and clean language translator web app built with Streamlit and 
 pip install -r requirements.txt
 streamlit run app.py
 
+## 🚀 Live Demo
+
+🤖 [Launch the FAQ Chatbot](https://codealphatasks-fimmb63ffdegdgvwlytkw4.streamlit.app/)
+
 
 ---
 
